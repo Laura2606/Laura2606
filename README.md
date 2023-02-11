@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Laura2606. I am graduating in veterinary medicine, but I'm changing  career to be a front-end developer.
-- 👀 I’m interested in learning how to use the codes, how to use github and get a 
+- 👋 Hi, I’m Laura. I am graduated in veterinary medicine, but I'm changing  career to be a front-end developer.
+- 👀 I’m  learning how to code!
 - 🌱 I’m currently learning JavaScript, CSS and HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
