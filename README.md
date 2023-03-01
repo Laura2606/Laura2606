@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning JavaScript, CSS and HTML.
 - 📫 How to reach me: 
 - Linkedind: https://www.linkedin.com/in/laura-v-2887161a6/
-- Email: lauravieirapires@gmail.com / lavieirapires@id.uff.br                       
+- Email: lauravieirapires@gmail.com / lavieirapires@id.uff.br    
+- <i class="devicon-java-plain"></i>
+                   
 
 <!---
 Laura2606/Laura2606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
