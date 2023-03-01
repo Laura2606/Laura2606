@@ -4,7 +4,6 @@
 - 📫 How to reach me: 
 - Linkedind: https://www.linkedin.com/in/laura-v-2887161a6/
 - Email: lauravieirapires@gmail.com / lavieirapires@id.uff.br    
-- <i class="devicon-java-plain"></i>
                    
 
 <!---
