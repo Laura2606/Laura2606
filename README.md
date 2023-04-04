@@ -2,7 +2,7 @@
 - 👀 I’m  learning how to code!
 - 🌱 I’m currently studing web development at #trybe
 - 📫 How to reach me: 
-- Linkedind: https://www.linkedin.com/in/laura-v-2887161a6/
+- Linkedin: https://www.linkedin.com/in/laura-v-2887161a6/
 - Email: lauravieirapires@gmail.com   
                    
 
